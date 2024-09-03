@@ -1,3 +1,3 @@
---platform=linux/arm64 bitnami/kafka:2.8.1-debian-10-r24
+--platform=linux/arm64 bitnami/kafka:3.3.2-debian-11-r267
 
 
