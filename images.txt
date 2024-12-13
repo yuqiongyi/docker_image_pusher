@@ -1,5 +1,1 @@
-docker.io/calico/typha:v3.22.5
-docker.io/calico/pod2daemon-flexvol:v3.22.5
-docker.io/calico/cni:v3.22.5
-docker.io/calico/node:v3.22.5
-docker.io/calico/kube-controllers:v3.22.5
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
