@@ -1,1 +1,3 @@
-tomcat
+prom/prometheus
+consul/consul
+prom/node-exporter
