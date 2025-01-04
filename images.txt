@@ -1,1 +1,3 @@
-nginx:latest
+prom/node-exporter
+consul/consul
+prom/prometheus
